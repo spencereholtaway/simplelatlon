@@ -17,7 +17,7 @@ Runs on iPhone, iPad and natively on macOS (one multiplatform target).
 
 ## Build
 
-Open `LatLon.xcodeproj` in Xcode 16 or later (Xcode 26 recommended; that's what turns on the
+Open `Xcode Lat Lon.xcodeproj` in Xcode 16 or later (Xcode 26 recommended; that's what turns on the
 Liquid Glass card), pick your team under *Signing & Capabilities*, choose an iOS simulator,
 device or "My Mac", and run. Deployment targets: iOS 17, macOS 14.
 

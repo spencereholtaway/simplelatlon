@@ -14,7 +14,7 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		1A0000000000000000000002 /* LatLon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = LatLon;
+			path = "Xcode Lat Lon";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
