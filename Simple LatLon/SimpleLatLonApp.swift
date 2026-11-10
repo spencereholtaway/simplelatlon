@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct XcodeLatLonApp: App {
+struct SimpleLatLonApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

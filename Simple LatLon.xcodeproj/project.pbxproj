@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1A0000000000000000000010 /* Xcode Lat Lon.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Xcode Lat Lon.entitlements"; sourceTree = "<group>"; };
-		1A0000000000000000000001 /* Xcode Lat Lon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xcode Lat Lon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A0000000000000000000010 /* Simple LatLon.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Simple LatLon.entitlements"; sourceTree = "<group>"; };
+		1A0000000000000000000001 /* Simple LatLon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simple LatLon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1A0000000000000000000002 /* Xcode Lat Lon */ = {
+		1A0000000000000000000002 /* Simple LatLon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Xcode Lat Lon";
+			path = "Simple LatLon";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -33,8 +33,8 @@
 		1A0000000000000000000004 = {
 			isa = PBXGroup;
 			children = (
-				1A0000000000000000000002 /* Xcode Lat Lon */,
-				1A0000000000000000000010 /* Xcode Lat Lon.entitlements */,
+				1A0000000000000000000002 /* Simple LatLon */,
+				1A0000000000000000000010 /* Simple LatLon.entitlements */,
 				1A0000000000000000000005 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -42,7 +42,7 @@
 		1A0000000000000000000005 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1A0000000000000000000001 /* Xcode Lat Lon.app */,
+				1A0000000000000000000001 /* Simple LatLon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -50,9 +50,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1A0000000000000000000006 /* Xcode Lat Lon */ = {
+		1A0000000000000000000006 /* Simple LatLon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1A000000000000000000000B /* Build configuration list for PBXNativeTarget "Xcode Lat Lon" */;
+			buildConfigurationList = 1A000000000000000000000B /* Build configuration list for PBXNativeTarget "Simple LatLon" */;
 			buildPhases = (
 				1A0000000000000000000007 /* Sources */,
 				1A0000000000000000000003 /* Frameworks */,
@@ -63,13 +63,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1A0000000000000000000002 /* Xcode Lat Lon */,
+				1A0000000000000000000002 /* Simple LatLon */,
 			);
-			name = "Xcode Lat Lon";
+			name = "Simple LatLon";
 			packageProductDependencies = (
 			);
-			productName = "Xcode Lat Lon";
-			productReference = 1A0000000000000000000001 /* Xcode Lat Lon.app */;
+			productName = "Simple LatLon";
+			productReference = 1A0000000000000000000001 /* Simple LatLon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -87,7 +87,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1A000000000000000000000A /* Build configuration list for PBXProject "Xcode Lat Lon" */;
+			buildConfigurationList = 1A000000000000000000000A /* Build configuration list for PBXProject "Simple LatLon" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -101,7 +101,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1A0000000000000000000006 /* Xcode Lat Lon */,
+				1A0000000000000000000006 /* Simple LatLon */,
 			);
 		};
 /* End PBXProject section */
@@ -197,13 +197,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Xcode Lat Lon.entitlements";
+				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Simple LatLon.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Xcode Lat Lon";
+				INFOPLIST_KEY_CFBundleDisplayName = "Simple LatLon";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Shows where you are on the map, so you can grab your current coordinates.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -221,7 +221,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Xcode-Lat-Lon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Simple-LatLon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -239,13 +239,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Xcode Lat Lon.entitlements";
+				"CODE_SIGN_ENTITLEMENTS[sdk=macosx*]" = "Simple LatLon.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Xcode Lat Lon";
+				INFOPLIST_KEY_CFBundleDisplayName = "Simple LatLon";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Shows where you are on the map, so you can grab your current coordinates.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -263,7 +263,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Xcode-Lat-Lon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Simple-LatLon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -279,7 +279,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A000000000000000000000A /* Build configuration list for PBXProject "Xcode Lat Lon" */ = {
+		1A000000000000000000000A /* Build configuration list for PBXProject "Simple LatLon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1A000000000000000000000C /* Debug */,
@@ -288,7 +288,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1A000000000000000000000B /* Build configuration list for PBXNativeTarget "Xcode Lat Lon" */ = {
+		1A000000000000000000000B /* Build configuration list for PBXNativeTarget "Simple LatLon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1A000000000000000000000E /* Debug */,

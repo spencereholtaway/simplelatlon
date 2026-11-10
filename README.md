@@ -1,4 +1,4 @@
-# Xcode Lat Lon
+# Simple LatLon
 
 Apple Maps with everything stripped out except the coordinate under a crosshair. Built for
 pasting into the iOS Simulator's **Features → Location → Custom Location…** dialog, which has
@@ -17,7 +17,7 @@ Runs on iPhone, iPad and natively on macOS (one multiplatform target).
 
 ## Build
 
-Open `Xcode Lat Lon.xcodeproj` in Xcode 16 or later (Xcode 26 recommended; that's what turns on the
+Open `Simple LatLon.xcodeproj` in Xcode 16 or later (Xcode 26 recommended; that's what turns on the
 Liquid Glass card), pick your team under *Signing & Capabilities*, choose an iOS simulator,
 device or "My Mac", and run. Deployment targets: iOS 17, macOS 14.
 
