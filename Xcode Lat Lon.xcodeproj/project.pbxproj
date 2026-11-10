@@ -203,7 +203,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Lat Lon";
+				INFOPLIST_KEY_CFBundleDisplayName = "Xcode Lat Lon";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Shows where you are on the map, so you can grab your current coordinates.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -221,7 +221,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.LatLon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Xcode-Lat-Lon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -245,7 +245,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Lat Lon";
+				INFOPLIST_KEY_CFBundleDisplayName = "Xcode Lat Lon";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Shows where you are on the map, so you can grab your current coordinates.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -263,7 +263,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.LatLon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.Xcode-Lat-Lon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";

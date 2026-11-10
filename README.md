@@ -1,4 +1,4 @@
-# Lat Lon
+# Xcode Lat Lon
 
 Apple Maps with everything stripped out except the coordinate under a crosshair. Built for
 pasting into the iOS Simulator's **Features → Location → Custom Location…** dialog, which has

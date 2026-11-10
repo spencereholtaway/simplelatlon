@@ -71,7 +71,7 @@ struct ContentView: View {
             #if os(iOS)
             .navigationBarTitleDisplayMode(.inline)
             #else
-            .navigationTitle("Lat Lon")
+            .navigationTitle("Xcode Lat Lon")
             #endif
             .searchable(text: $query, isPresented: $isSearching, prompt: "Search Maps")
             .searchSuggestions {
